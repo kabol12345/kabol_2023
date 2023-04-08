@@ -1,44 +1,43 @@
 {
-	"data": [
+  "data": [
 
-		{
-			"id": 1,
-			"judul": "Beneath the Trump circus, American democracy faces up to a vital challenge",
-			"image": "https://images.theconversation.com/files/519435/original/file-20230404-24-j89447.jpg",
-			"content": "Passing Context to the adapter is completely unnecessary since RecyclerView you can access it from inside the classObtaining Context at ViewHolder level means that you do it every time you bind or create a ViewHolder You duplicate operations I dont think you need to worry about any memory leak If your adapter lingers outside your Activity lifespan (which would be weird) then you already have a leak"
-        
+    {
+      "id": 1,
+      "judul": "Beneath the Trump circus, American democracy faces up to a vital challenge",
+      "image": "https://images.theconversation.com/files/519435/original/file-20230404-24-j89447.jpg",
+      "content": "<h3 class=\"title\">Introduction</h3>\n<p>Alien Video Player Json (AVPJ) adalah Source Code (SC) untuk memutar format video menggunakan liblari&nbsp;<strong>exoplayer</strong>&nbsp;non API Youtube, untuk menggunakan SC ini pembeli harus memiliki Hosting untuk menyimpan data video dan json atau bisa menggunakan situs gratisan penyimpan video dan json.</p>\n<p><strong>Penggunaan Teknologi:</strong></p>\n<ul>\n<li>Bahasa Pemrograman Java</li>\n<li>Json Format</li>\n<li>Android Studio Dolphin</li>\n<li>Sublime Text/Notepad++</li>\n</ul>\n<p><strong>Fitur:</strong></p>\n<ul>\n<li>Menggunakan 8 iklan dengan sistem switch Ads dan Bakcup Ads (Admob, Facebook, Google ads Manager, Applovin Max, Applovin Discovery, IronSouce, ALien Ads dan StartApp)</li>\n<li>Seluruh iklan yang dipilih bisa saling mediasi, terkecuali StartApp</li>\n<li>Konfigurasi GDPR terbaru</li>\n<li>Modul Redirect App untuk mengatasi aplikasi yang di suspend</li>\n<li>Modul More App dengan design listview</li>\n<li>Data Json menggunakan mode online dan offline</li>\n<li>Modul In App update dan In App Review</li>\n<li>Pengaturan Sort listview</li>\n<li>Menggunakan mode switch ads dan backup ads</li>\n<li>Menggunakan proteksi aplikasi untuk website Apkpure, ApkMirror, AptoIde, getjar, dan lain2.</li>\n</ul>\n<p><strong>File Pendukung:</strong></p>\n<ul>\n<li>Video cek&nbsp;<a href=\"https://exoplayer.dev/supported-formats.html\">Supported formats</a></li>\n<li>Gambar (*.jpg, *.jpeg, *.png dan *.webp)</li>\n<li>Json</li>\n</ul>\n<p><strong>Update</strong></p>\n<p><strong>08 oktober 2022 (V4.0)</strong></p>\n<ul>\n<li>Android SDK 33 AGP 7.3.3</li>\n<li>Penambahan iklan Alien Ads View dan Alien Ads Mediation</li>\n<li>Pengaturan Banner dan Natives</li>\n<li>Remot Open Ads Admob dan Open Ads Alien View</li>\n<li>Pembaruan panduan SettingAlien.java</li>\n<li>Alien SDK Ads Neptunus-09</li>\n<li>Ganti Json Ads v3 ke V4</li>\n</ul>\n<p><strong>19 Juli 2022 (V3.1)</strong></p>"
 
 
-		},
-		{
-			"id": 2,
-			"judul": "Amerika Tegaskan Dukungan Buat Israel di Konflik Palestina",
-			"image": "https://akcdn.detik.net.id/visual/2023/04/07/kehancuran-di-gaza-imbas-serangan-roket-israel_169.jpeg",	
-			"content": "Passing Context to the adapter is completely unnecessary since RecyclerView you can access it from inside the classObtaining Context at ViewHolder level means that you do it every time you bind or create a ViewHolder You duplicate operations I dont think you need to worry about any memory leak If your adapter lingers outside your Activity lifespan (which would be weird) then you already have a leak"
-        
+    },
+    {
+      "id": 2,
+      "judul": "Amerika Tegaskan Dukungan Buat Israel di Konflik Palestina",
+      "image": "https://akcdn.detik.net.id/visual/2023/04/07/kehancuran-di-gaza-imbas-serangan-roket-israel_169.jpeg",
+      "content": "Passing Context to the adapter is completely unnecessary since RecyclerView you can access it from inside the classObtaining Context at ViewHolder level means that you do it every time you bind or create a ViewHolder You duplicate operations I dont think you need to worry about any memory leak If your adapter lingers outside your Activity lifespan (which would be weird) then you already have a leak"
 
 
 
-		},
-		{
-			"id": 3,
-			"judul": "AS Ikut Dibikin Repot karena Kelakuan Polisi Israel Serbu Al Aqsa",
-			"image": "https://akcdn.detik.net.id/visual/2015/01/08/882663ef-b241-4ac9-95cb-da46db5f4dcd_169.jpg",
-			"content": "Passing Context to the adapter is completely unnecessary since RecyclerView you can access it from inside the classObtaining Context at ViewHolder level means that you do it every time you bind or create a ViewHolder You duplicate operations I dont think you need to worry about any memory leak If your adapter lingers outside your Activity lifespan (which would be weird) then you already have a leak"
-        
+
+    },
+    {
+      "id": 3,
+      "judul": "AS Ikut Dibikin Repot karena Kelakuan Polisi Israel Serbu Al Aqsa",
+      "image": "https://akcdn.detik.net.id/visual/2015/01/08/882663ef-b241-4ac9-95cb-da46db5f4dcd_169.jpg",
+      "content": "Passing Context to the adapter is completely unnecessary since RecyclerView you can access it from inside the classObtaining Context at ViewHolder level means that you do it every time you bind or create a ViewHolder You duplicate operations I dont think you need to worry about any memory leak If your adapter lingers outside your Activity lifespan (which would be weird) then you already have a leak"
 
 
 
-		}, {
-			"id": 4,
-			"judul": "Bantah Semua Dakwaan, Bagaimana Kelanjutan Proses Hukum Trump",
-			"image": "https://akcdn.detik.net.id/visual/2023/04/05/mantan-presiden-as-donald-trump-berangkat-setelah-memberikan-sambutan-di-mar-a-lago-club-di-palm-beach-florida-as-pada-selasa-_169.jpeg",
-			"content": "Passing Context to the adapter is completely unnecessary since RecyclerView you can access it from inside the classObtaining Context at ViewHolder level means that you do it every time you bind or create a ViewHolder You duplicate operations I dont think you need to worry about any memory leak If your adapter lingers outside your Activity lifespan (which would be weird) then you already have a leak"
-        
+
+    }, {
+      "id": 4,
+      "judul": "Bantah Semua Dakwaan, Bagaimana Kelanjutan Proses Hukum Trump",
+      "image": "https://akcdn.detik.net.id/visual/2023/04/05/mantan-presiden-as-donald-trump-berangkat-setelah-memberikan-sambutan-di-mar-a-lago-club-di-palm-beach-florida-as-pada-selasa-_169.jpeg",
+      "content": "Passing Context to the adapter is completely unnecessary since RecyclerView you can access it from inside the classObtaining Context at ViewHolder level means that you do it every time you bind or create a ViewHolder You duplicate operations I dont think you need to worry about any memory leak If your adapter lingers outside your Activity lifespan (which would be weird) then you already have a leak"
 
 
 
-		}
 
-	]
+    }
+
+  ]
 }
