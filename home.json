@@ -5,13 +5,15 @@
       "id": 1,
       "judul": "Beneath the Trump circus, American democracy faces up to a vital challenge",
       "image": "https://images.theconversation.com/files/519435/original/file-20230404-24-j89447.jpg",
-      "content": "https://sites.google.com/view/jkbkjbkbkjb/home"
+      "content": "Passing Context to the adapter is completely unnecessary since RecyclerView you can access it from inside the classObtaining Context at ViewHolder level means that you do it every time you bind or create a ViewHolder You duplicate operations I dont think you need to worry about any memory leak If your adapter lingers outside your Activity lifespan (which would be weird) then you already have a leak"
+
     },
     {
       "id": 2,
       "judul": "Amerika Tegaskan Dukungan Buat Israel di Konflik Palestina",
       "image": "https://akcdn.detik.net.id/visual/2023/04/07/kehancuran-di-gaza-imbas-serangan-roket-israel_169.jpeg",
-      "content": "https://sites.google.com/view/jkbkjbkbkjb/home"
+      "content": "Passing Context to the adapter is completely unnecessary since RecyclerView you can access it from inside the classObtaining Context at ViewHolder level means that you do it every time you bind or create a ViewHolder You duplicate operations I dont think you need to worry about any memory leak If your adapter lingers outside your Activity lifespan (which would be weird) then you already have a leak"
+
 
 
     },
