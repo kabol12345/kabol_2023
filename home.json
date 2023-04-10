@@ -1,5 +1,5 @@
 {
-	"data": [
+	"home": [
 
 		{
 			"id": 1,
@@ -38,8 +38,10 @@
 		}
 
 	],
-	"data2": [{
-		"idx": 1,
+	"foryou": 
+	[
+		{
+		"id": 1,
 		"judul": "Bantah Semua Dakwaan, Bagaimana Kelanjutan Proses Hukum Trump",
 		"image": "https://akcdn.detik.net.id/visual/2023/04/05/mantan-presiden-as-donald-trump-berangkat-setelah-memberikan-sambutan-di-mar-a-lago-club-di-palm-beach-florida-as-pada-selasa-_169.jpeg",
 		"content": "Passing Context to the adapter is completely unnecessary since RecyclerView you can access it from inside the classObtaining Context at ViewHolder level means that you do it every time you bind or create a ViewHolder You duplicate operations I dont think you need to worry about any memory leak If your adapter lingers outside your Activity lifespan (which would be weird) then you already have a leak",
@@ -47,5 +49,28 @@
 
 
 
-	}]
+	},	{
+		"id": 2,
+		"judul": "Bantah Semua Dakwaan, Bagaimana Kelanjutan Proses Hukum Trump",
+		"image": "https://akcdn.detik.net.id/visual/2023/04/05/mantan-presiden-as-donald-trump-berangkat-setelah-memberikan-sambutan-di-mar-a-lago-club-di-palm-beach-florida-as-pada-selasa-_169.jpeg",
+		"content": "Passing Context to the adapter is completely unnecessary since RecyclerView you can access it from inside the classObtaining Context at ViewHolder level means that you do it every time you bind or create a ViewHolder You duplicate operations I dont think you need to worry about any memory leak If your adapter lingers outside your Activity lifespan (which would be weird) then you already have a leak",
+		"link": "https://sites.google.com/view/jkbkjbkbkjb/home"
+
+
+
+	}
+],
+	"trending": 
+	[
+		{
+		"id": 1,
+		"judul": "Bantah Semua Dakwaan, Bagaimana Kelanjutan Proses Hukum Trump",
+		"image": "https://akcdn.detik.net.id/visual/2023/04/05/mantan-presiden-as-donald-trump-berangkat-setelah-memberikan-sambutan-di-mar-a-lago-club-di-palm-beach-florida-as-pada-selasa-_169.jpeg",
+		"content": "Passing Context to the adapter is completely unnecessary since RecyclerView you can access it from inside the classObtaining Context at ViewHolder level means that you do it every time you bind or create a ViewHolder You duplicate operations I dont think you need to worry about any memory leak If your adapter lingers outside your Activity lifespan (which would be weird) then you already have a leak",
+		"link": "https://sites.google.com/view/jkbkjbkbkjb/home"
+
+
+
+	}
+]
 }
