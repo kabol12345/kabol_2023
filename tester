@@ -1,0 +1,170 @@
+{
+  "Ads": {
+  "appid": "ca-app-pub-3940256099942544~3347511713",
+	"native": "ca-app-pub-3940256099942544/2247696110",
+	"banner": "ca-app-pub-3940256099942544/6300978111",
+	"inter": "ca-app-pub-3940256099942544/1033173712",
+
+	"Admob": "0",
+	"BannerAdmob": "0",
+	"NativeAdmob": "0",
+
+	"Bidding_Admob_Inter": "0",
+	"Bidding_Admob_Banner": "0",
+	"Bidding_Admob_Native": "0",
+
+
+	"interFan": "199850962620816_199853092620603",
+	"NativeFan": "199850962620816_199853335953912",
+	"BannerFan": "199850962620816_199853049287274",
+
+	"Fan": "1",
+	"BannerFanAds": "1",
+	"NativeFanAds": "1",
+
+	"InterApplovinId": "537e19f2f92132f8",
+	"BannerApplovinId": "9a6b15a371a92518",
+	"MrcApplovinId": "0",
+	"VideoReword": "0",
+	"NativeApplovin": "675de1870de10b77",
+
+	"Applovin": "0",
+	"BannerApplovin": "0",
+
+	"Bidding_Applovin_Inter": "0",
+	"Bidding_Applovin_Banner": "0",
+	"Bidding_Applovin_Mrc": "0",
+	"Bidding_Applovin_Native": "0",
+	"Bidding_Applovin_VideoReword": "0",
+
+
+	"IdStarapp": "205147707",
+
+	"Starapp": "0",
+
+
+	"idappdeal": "f82101653f0cc1f4b8140cfbd2f47f6f306c4d5e865a6d66",
+
+	"appdeal": "0",
+
+	"button": "0",
+	"splase": "0",
+
+	"adsbrutal": "0",
+	"adsbiasa": "1",
+
+	
+	"Redirect": "0",
+	"AppPackageName": "com.hihonor.health",
+	"OneSignal": "02edab5a-8631-4911-bca4-9ab0c6856f37",
+        "Notification": "1",
+
+	"browser": "https://www.google.com/search?q=",
+	"browserServer": "https://yandex.com/video/search?text=",
+
+
+
+
+
+
+	"iklan": "1"
+    }
+ ,
+  "home": [
+    {
+      "id": 1,
+      "judul": "Cara Melakukan Pinjaman Online",
+      "image": "https://raw.githubusercontent.com/kabol12345/Asset-Image/main/b01f0b644556164ec094b0558f5bf7f6.jpeg",
+      "content": "Supaya bisa memanfaatkan pinjaman uang secara online dengan tepat dan bijaksana, Sahabat bisa coba pahami beberapa syarat dan tips cara pinjam uang online berikut ini ya!",
+      "link": "https://raw.githubusercontent.com/kabol12345/DATA-CONTAIN-App/main/Kemudahan%20dan%20Kecepatan%20dalam%20Mendapatkan%20Dana"
+    },
+    {
+      "id": 2,
+      "judul": "Tips Mengajukan Pinjaman Online agar Cepat Cair",
+      "image": "https://raw.githubusercontent.com/kabol12345/Asset-Image/main/b01f0b644556164ec094b0558f5bf7f6.jpeg",
+      "content": "Sebagai pelamar, Anda juga perlu memperhatikan apakah pemasukan sesuai dengan syarat minimum. Pastikan untuk memeriksa persyaratan pendapatan minimum untuk yang perlu dilampirkan.",
+      "link": "https://raw.githubusercontent.com/kabol12345/DATA-CONTAIN-App/main/Mengenal%20Pinjaman%20Online%20(Pinjol)"
+    },
+    {
+      "id": 3,
+      "judul": "Memastikan Riwayat Kredit Baik",
+      "image": "https://raw.githubusercontent.com/kabol12345/Asset-Image/main/b01f0b644556164ec094b0558f5bf7f6.jpeg",
+      "content": "Semua lembaga keuangan dapat mengetahui riwayat kredit setiap orang melalui pemeriksaan BI. Semua pemohon dengan riwayat kredit baik atau buruk terdaftar di BI Checking.",
+      "link": "https://raw.githubusercontent.com/kabol12345/DATA-CONTAIN-App/main/Menghindari%20Pinjaman%20Online%20Ilegal"
+    },
+    {
+      "id": 4,
+      "judul": "Menyiapkan Dokumen Asli yang Diminta",
+      "image": "https://raw.githubusercontent.com/kabol12345/Asset-Image/main/b01f0b644556164ec094b0558f5bf7f6.jpeg",
+      "content": "Persyaratan yang mudah dan proses yang cepat terkadang membuat beberapa orang menyepelekannya sehingga tidak mempersiapkan persyaratan pinjaman online dengan baik. Padahal ini merupakan salah satu cara pinjam online cepat cair.",
+      "link": "https://raw.githubusercontent.com/kabol12345/DATA-CONTAIN-App/main/Pinjaman%20Online%20dengan%20Bunga%20Rendah"
+    },
+    {
+      "id": 5,
+      "judul": "Mengajukan Pinjaman Online Sesuai Kemampuan Keuangan",
+      "image": "https://raw.githubusercontent.com/kabol12345/Asset-Image/main/b01f0b644556164ec094b0558f5bf7f6.jpeg",
+      "content": "Jika Anda ingin mengambil pinjaman, pastikan jumlah nominal pinjaman tersebut masuk akal, yang mana nilai nominalnya tidak melebihi kemampuan Anda dalam mengembalikannya.",
+      "link": "https://raw.githubusercontent.com/kabol12345/DATA-CONTAIN-App/main/Solusi%20Dana%20Cepat%20dalam%20Kehidupan%20yang%20Sibuk"
+    },
+ {
+      "id": 6,
+      "judul": "Mengajukan Pinjaman Online Sesuai Kemampuan Keuangan",
+      "image": "https://raw.githubusercontent.com/kabol12345/Asset-Image/main/b01f0b644556164ec094b0558f5bf7f6.jpeg",
+      "content": "Jika Anda ingin mengambil pinjaman, pastikan jumlah nominal pinjaman tersebut masuk akal, yang mana nilai nominalnya tidak melebihi kemampuan Anda dalam mengembalikannya.",
+      "link": "https://raw.githubusercontent.com/kabol12345/DATA-CONTAIN-App/main/Solusi%20Finansial%20dalam%20Waktu%20Singkat"
+    }
+  ],
+  "foryoux": [
+    {
+      "id": 1,
+      "judul": "Cara Melakukan Pinjaman Online",
+      "image": "https://raw.githubusercontent.com/kabol12345/Asset-Image/main/b01f0b644556164ec094b0558f5bf7f6.jpeg",
+      "content": "Supaya bisa memanfaatkan pinjaman uang secara online dengan tepat dan bijaksana, Sahabat bisa coba pahami beberapa syarat dan tips cara pinjam uang online berikut ini ya!",
+      "link": "https://raw.githubusercontent.com/kabol12345/DATA-CONTAIN-App/main/Kemudahan%20dan%20Kecepatan%20dalam%20Mendapatkan%20Dana"
+    },
+    {
+      "id": 2,
+      "judul": "Tips Mengajukan Pinjaman Online agar Cepat Cair",
+      "image": "https://raw.githubusercontent.com/kabol12345/Asset-Image/main/b01f0b644556164ec094b0558f5bf7f6.jpeg",
+      "content": "Sebagai pelamar, Anda juga perlu memperhatikan apakah pemasukan sesuai dengan syarat minimum. Pastikan untuk memeriksa persyaratan pendapatan minimum untuk yang perlu dilampirkan.",
+      "link": "https://raw.githubusercontent.com/kabol12345/DATA-CONTAIN-App/main/Mengenal%20Pinjaman%20Online%20(Pinjol)"
+    },
+    {
+      "id": 3,
+      "judul": "Memastikan Riwayat Kredit Baik",
+      "image": "https://raw.githubusercontent.com/kabol12345/Asset-Image/main/b01f0b644556164ec094b0558f5bf7f6.jpeg",
+      "content": "Semua lembaga keuangan dapat mengetahui riwayat kredit setiap orang melalui pemeriksaan BI. Semua pemohon dengan riwayat kredit baik atau buruk terdaftar di BI Checking.",
+      "link": "https://raw.githubusercontent.com/kabol12345/DATA-CONTAIN-App/main/Menghindari%20Pinjaman%20Online%20Ilegal"
+    },
+    {
+      "id": 4,
+      "judul": "Menyiapkan Dokumen Asli yang Diminta",
+      "image": "https://raw.githubusercontent.com/kabol12345/Asset-Image/main/b01f0b644556164ec094b0558f5bf7f6.jpeg",
+      "content": "Persyaratan yang mudah dan proses yang cepat terkadang membuat beberapa orang menyepelekannya sehingga tidak mempersiapkan persyaratan pinjaman online dengan baik. Padahal ini merupakan salah satu cara pinjam online cepat cair.",
+      "link": "https://raw.githubusercontent.com/kabol12345/DATA-CONTAIN-App/main/Pinjaman%20Online%20dengan%20Bunga%20Rendah"
+    },
+    {
+      "id": 5,
+      "judul": "Mengajukan Pinjaman Online Sesuai Kemampuan Keuangan",
+      "image": "https://raw.githubusercontent.com/kabol12345/Asset-Image/main/b01f0b644556164ec094b0558f5bf7f6.jpeg",
+      "content": "Jika Anda ingin mengambil pinjaman, pastikan jumlah nominal pinjaman tersebut masuk akal, yang mana nilai nominalnya tidak melebihi kemampuan Anda dalam mengembalikannya.",
+      "link": "https://raw.githubusercontent.com/kabol12345/DATA-CONTAIN-App/main/Solusi%20Dana%20Cepat%20dalam%20Kehidupan%20yang%20Sibuk"
+    },
+ {
+      "id": 6,
+      "judul": "Mengajukan Pinjaman Online Sesuai Kemampuan Keuangan",
+      "image": "https://raw.githubusercontent.com/kabol12345/Asset-Image/main/b01f0b644556164ec094b0558f5bf7f6.jpeg",
+      "content": "Jika Anda ingin mengambil pinjaman, pastikan jumlah nominal pinjaman tersebut masuk akal, yang mana nilai nominalnya tidak melebihi kemampuan Anda dalam mengembalikannya.",
+      "link": "https://raw.githubusercontent.com/kabol12345/DATA-CONTAIN-App/main/Solusi%20Finansial%20dalam%20Waktu%20Singkat"
+    }
+  
+  ],
+  "trendingx": [
+    {
+      "id": 1,
+      "judul": "Mobile Legends: Bang Bang",
+      "image": "https://play-lh.googleusercontent.com/Qc3jxMEGWOTCeiR-PlqaPErtTUyqTBEI92pq-pKrFmLH5iXQa1EQ-8vbLWZLxe5N-tc=w1052-h592-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.mobile.legends"
+    }
+  ]
+}
